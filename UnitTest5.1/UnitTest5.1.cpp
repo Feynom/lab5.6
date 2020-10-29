@@ -14,7 +14,7 @@ namespace UnitTest51
 		{
 			double t;
 			t = pryklad(5, 6, 7);
-			Assert::AreEqual(t, 6, 7);
+			Assert::AreEqual(t, 12.);
 		}
 	};
 }
